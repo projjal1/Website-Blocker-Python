@@ -1,0 +1,10 @@
+{
+	"working":{
+		"hours":10,
+		"minutes":15,
+		"secs":0},
+	"free":{
+		"hours":10,
+		"minutes":43,
+		"secs":10}
+}
